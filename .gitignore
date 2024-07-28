@@ -1,4 +1,6 @@
 .venv
 .env
 Screeners/screener1/stock_data
-**/**/*.csv
+**/.csv
+**/.env
+
