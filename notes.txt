@@ -1,0 +1,6 @@
+talib -> helps with many indicators
+pyalgotrade -> helps with backtesting and executing trades
+yfinance -> helps with the data 
+alpaca -> helps to execute the trades and also help to get the data.
+
+
